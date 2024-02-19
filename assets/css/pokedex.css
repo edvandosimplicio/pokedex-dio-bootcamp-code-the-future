@@ -125,11 +125,11 @@
 }
 
 .pagination button {
-   padding: .25rem .5rem;
+   padding: .60rem .8rem;
    margin: .25rem 0;
-   font-size: .625rem;
+   font-size: .700rem;
    color: #ffff;
-   background-color:gainsboro;
+   background-color:dodgerblue;
    border: none;
    border-radius: 1rem;
 }
